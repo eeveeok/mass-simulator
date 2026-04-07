@@ -44,3 +44,7 @@
 │       ├── Lidar              # 레이저 기반 주변 환경 스캔 및 데이터 처리
 │       ├── PathFinding        # A* 및 APF 기반 전역/국소 경로 탐색
 │       └── Utils              # Object Pooling 및 범용 유틸리티 클래스
+```
+
+<img width="1489" height="1054" alt="image" src="https://github.com/user-attachments/assets/c8b6ca85-90a2-40e9-a63f-7d823d9ed9fc" />
+<img width="977" height="1053" alt="image" src="https://github.com/user-attachments/assets/85fc90fb-29d2-4d8b-83ee-e3af5da99ce3" />
