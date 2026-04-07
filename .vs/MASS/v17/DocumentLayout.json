@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29BE15C3-ED28-B1AF-7DB2-6EC27D4ADD4D}|Assembly-CSharp.csproj|c:\\users\\hyeok\\desktop\\junhyeok\\unity\\projects\\mass\\assets\\scripts\\autonavigation\\autoboatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BE15C3-ED28-B1AF-7DB2-6EC27D4ADD4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\autonavigation\\autoboatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BE15C3-ED28-B1AF-7DB2-6EC27D4ADD4D}|Assembly-CSharp.csproj|C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\assets\\scripts\\pathfinding\\gridpathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BE15C3-ED28-B1AF-7DB2-6EC27D4ADD4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pathfinding\\gridpathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BE15C3-ED28-B1AF-7DB2-6EC27D4ADD4D}|Assembly-CSharp.csproj|C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\assets\\scripts\\figuredetection\\figuredetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BE15C3-ED28-B1AF-7DB2-6EC27D4ADD4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\figuredetection\\figuredetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BE15C3-ED28-B1AF-7DB2-6EC27D4ADD4D}|Assembly-CSharp.csproj|C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\assets\\scripts\\boat\\boatpathfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BE15C3-ED28-B1AF-7DB2-6EC27D4ADD4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boat\\boatpathfollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BE15C3-ED28-B1AF-7DB2-6EC27D4ADD4D}|Assembly-CSharp.csproj|c:\\users\\hyeok\\desktop\\junhyeok\\unity\\projects\\mass\\assets\\scripts\\utils\\randomobstaclegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BE15C3-ED28-B1AF-7DB2-6EC27D4ADD4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utils\\randomobstaclegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BE15C3-ED28-B1AF-7DB2-6EC27D4ADD4D}|Assembly-CSharp.csproj|c:\\users\\hyeok\\desktop\\junhyeok\\unity\\projects\\mass\\assets\\scripts\\camera\\builtincamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BE15C3-ED28-B1AF-7DB2-6EC27D4ADD4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\builtincamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BE15C3-ED28-B1AF-7DB2-6EC27D4ADD4D}|Assembly-CSharp.csproj|C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\assets\\scripts\\lidar\\lidarsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BE15C3-ED28-B1AF-7DB2-6EC27D4ADD4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lidar\\lidarsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BE15C3-ED28-B1AF-7DB2-6EC27D4ADD4D}|Assembly-CSharp.csproj|C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\assets\\scripts\\boat\\boatstabilization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BE15C3-ED28-B1AF-7DB2-6EC27D4ADD4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boat\\boatstabilization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BE15C3-ED28-B1AF-7DB2-6EC27D4ADD4D}|Assembly-CSharp.csproj|C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\assets\\scripts\\boat\\boatbuoyancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BE15C3-ED28-B1AF-7DB2-6EC27D4ADD4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boat\\boatbuoyancy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BE15C3-ED28-B1AF-7DB2-6EC27D4ADD4D}|Assembly-CSharp.csproj|C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\assets\\scripts\\boat\\boatmotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BE15C3-ED28-B1AF-7DB2-6EC27D4ADD4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boat\\boatmotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BE15C3-ED28-B1AF-7DB2-6EC27D4ADD4D}|Assembly-CSharp.csproj|C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\assets\\scripts\\boat\\boatcore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BE15C3-ED28-B1AF-7DB2-6EC27D4ADD4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boat\\boatcore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BE15C3-ED28-B1AF-7DB2-6EC27D4ADD4D}|Assembly-CSharp.csproj|C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\assets\\scripts\\pathfinding\\gridpathfindingeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BE15C3-ED28-B1AF-7DB2-6EC27D4ADD4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pathfinding\\gridpathfindingeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29BE15C3-ED28-B1AF-7DB2-6EC27D4ADD4D}|Assembly-CSharp.csproj|C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\assets\\scripts\\camera\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29BE15C3-ED28-B1AF-7DB2-6EC27D4ADD4D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\OpenCV\u002BUnity\\Demo\\Identifiy_Contours_by_Shape\\ContoursByShapeScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\OpenCV\u002BUnity\\Demo\\Identifiy_Contours_by_Shape\\ContoursByShapeScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuiltinCamera.cs",
+              "DocumentMoniker": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\Scripts\\Camera\\BuiltinCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\BuiltinCamera.cs",
+              "ToolTip": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\Scripts\\Camera\\BuiltinCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\BuiltinCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T12:08:42.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RandomObstacleGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\Scripts\\Utils\\RandomObstacleGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Utils\\RandomObstacleGenerator.cs",
+              "ToolTip": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\Scripts\\Utils\\RandomObstacleGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Utils\\RandomObstacleGenerator.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAiwLoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T09:40:21.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BoatPathFollower.cs",
+              "DocumentMoniker": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\Scripts\\Boat\\BoatPathFollower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Boat\\BoatPathFollower.cs",
+              "ToolTip": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\Scripts\\Boat\\BoatPathFollower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Boat\\BoatPathFollower.cs",
+              "ViewState": "AgIAAEcAAACYZmZmZiYvwFMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T16:18:49.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BoatCore.cs",
+              "DocumentMoniker": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\Scripts\\Boat\\BoatCore.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Boat\\BoatCore.cs",
+              "ToolTip": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\Scripts\\Boat\\BoatCore.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Boat\\BoatCore.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAqwMwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:49:21.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BoatMotor.cs",
+              "DocumentMoniker": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\Scripts\\Boat\\BoatMotor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Boat\\BoatMotor.cs",
+              "ToolTip": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\Scripts\\Boat\\BoatMotor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Boat\\BoatMotor.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAcwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:04:03.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LidarSensor.cs",
+              "DocumentMoniker": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\Scripts\\Lidar\\LidarSensor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Lidar\\LidarSensor.cs",
+              "ToolTip": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\Scripts\\Lidar\\LidarSensor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Lidar\\LidarSensor.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwCIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T13:29:44.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BoatBuoyancy.cs",
+              "DocumentMoniker": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\Scripts\\Boat\\BoatBuoyancy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Boat\\BoatBuoyancy.cs",
+              "ToolTip": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\Scripts\\Boat\\BoatBuoyancy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Boat\\BoatBuoyancy.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAqwHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:03:01.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BoatStabilization.cs",
+              "DocumentMoniker": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\Scripts\\Boat\\BoatStabilization.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Boat\\BoatStabilization.cs",
+              "ToolTip": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\Scripts\\Boat\\BoatStabilization.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Boat\\BoatStabilization.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAmwLcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:04:51.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FigureDetector.cs",
+              "DocumentMoniker": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\Scripts\\FigureDetection\\FigureDetector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FigureDetection\\FigureDetector.cs",
+              "ToolTip": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\Scripts\\FigureDetection\\FigureDetector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FigureDetection\\FigureDetector.cs",
+              "ViewState": "AgIAAD0BAAAAAAAAAAAmwGkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T22:12:55.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GridPathfinding.cs",
+              "DocumentMoniker": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\Scripts\\PathFinding\\GridPathfinding.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PathFinding\\GridPathfinding.cs",
+              "ToolTip": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\Scripts\\PathFinding\\GridPathfinding.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PathFinding\\GridPathfinding.cs",
+              "ViewState": "AgIAAB0CAAAAAAAAAAAiwEgCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T10:25:17.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoBoatController.cs",
+              "DocumentMoniker": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\Scripts\\AutoNavigation\\AutoBoatController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AutoNavigation\\AutoBoatController.cs",
+              "ToolTip": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\Scripts\\AutoNavigation\\AutoBoatController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AutoNavigation\\AutoBoatController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T10:04:58.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContoursByShapeScript.cs",
+              "DocumentMoniker": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\OpenCV\u002BUnity\\Demo\\Identifiy_Contours_by_Shape\\ContoursByShapeScript.cs",
+              "RelativeDocumentMoniker": "Assets\\OpenCV\u002BUnity\\Demo\\Identifiy_Contours_by_Shape\\ContoursByShapeScript.cs",
+              "ToolTip": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\OpenCV\u002BUnity\\Demo\\Identifiy_Contours_by_Shape\\ContoursByShapeScript.cs",
+              "RelativeToolTip": "Assets\\OpenCV\u002BUnity\\Demo\\Identifiy_Contours_by_Shape\\ContoursByShapeScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T18:28:53.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GridPathfindingEditor.cs",
+              "DocumentMoniker": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\Scripts\\PathFinding\\GridPathfindingEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PathFinding\\GridPathfindingEditor.cs",
+              "ToolTip": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\Scripts\\PathFinding\\GridPathfindingEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PathFinding\\GridPathfindingEditor.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAvwCkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T13:53:43.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CameraManager.cs",
+              "DocumentMoniker": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\Scripts\\Camera\\CameraManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CameraManager.cs",
+              "ToolTip": "C:\\Users\\Hyeok\\Desktop\\JunHyeok\\Unity\\Projects\\MASS\\Assets\\Scripts\\Camera\\CameraManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\CameraManager.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:21:32.985Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
