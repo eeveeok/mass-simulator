@@ -25,6 +25,7 @@
 - **Performance Optimization**: **Object Pooling** 기법을 적용하여 대규모 환경에서도 프레임 드롭 최소화
 
 ### 📊 실시간 분석 시스템
+- **LiDAR 센서 데이터 수집**: LiDAR 모듈 구현을 통해 센서 데이터의 수집 예측
 - **UI & Logging**: 항로별 이동 시간, 타겟과의 오차율, 제어 안정성 지표 시각화
 - **데이터 분석**: 시뮬레이션 결과 데이터를 실시간으로 모니터링하여 로직 개선 근거 확보
 
@@ -48,3 +49,4 @@
 
 <img width="1489" height="1054" alt="image" src="https://github.com/user-attachments/assets/c8b6ca85-90a2-40e9-a63f-7d823d9ed9fc" />
 <img width="977" height="1053" alt="image" src="https://github.com/user-attachments/assets/85fc90fb-29d2-4d8b-83ee-e3af5da99ce3" />
+<img width="1495" height="1054" alt="image" src="https://github.com/user-attachments/assets/6fe3442d-a3eb-4725-85a3-c72fd4990812" />
